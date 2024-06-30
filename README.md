@@ -108,3 +108,21 @@ You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Pr
 
 #### Report View 3
 ![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_3.png)
+
+
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- Carbon Iintensity (Total): __231,714__
+- Energy Consumption (Total): __16,946,543__
+- Energy Efficiency (Total): __12,684__
+- Fossil Fuel Consumption (Total): __11,727,842__
+- Hydro Consumption (Total): __840,003__
+- Nuclear Consumption (Total): __687,171__
+- Renewable Energy Consumption (Total): __1,026,638__
+- Renewable Energy Share %: __7__
+
+
+- <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="350">
+- **Top 10 Countries by Electricity Generation:**
+- In this analysis 
