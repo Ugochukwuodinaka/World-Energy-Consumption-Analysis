@@ -121,6 +121,7 @@ From the analysis, i made the following Key findings below:
 - Nuclear Consumption (Total): __687,171__
 - Renewable Energy Consumption (Total): __1,026,638__
 - Renewable Energy Share %: __7__
+-
 
 
 - <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="350">
