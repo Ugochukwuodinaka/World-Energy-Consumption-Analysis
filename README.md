@@ -55,3 +55,56 @@ The other variables are collected from a variety of sources (United Nations, Wor
 Gapminder, Maddison Project Database, etc.). More information on the fields in ths data is available in [our codebook](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv). The dataset for this analysis can be accessd [here](World%20Energy%20Consumption.csv). The variables in this data represent all of our main data related to energy consumption, energy mix, electricity mix as well as other variables of potential interest.
 
 All visualizations, data, and code produced by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+
+
+### Skills Utilized
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualiziation
+4. Descriptive Analytics
+5. Critical Thinking and Problem Solving
+6. Communication and Reporting
+
+### Tools Used
+1. MS SQL Server
+    - Was used to:
+        1. Extract,
+        2. Clean,
+        3. Transform,
+        4. Load all the datasets for this analysis.
+
+2. Tableau (Was used to create dashboards for this analysis)
+    - The following Tableau were incorporated:
+        1. Calculated Fields
+        2. Geospatial Analysis
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Buttons
+     
+
+### Data Cleaning, Transformation and Loading using MS SQL Server:
+A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data source into Tableau. I did the below:
+1. Changed the data type of thise fields that are of the wrong data type to the right data type.
+2. Made sure that all the data types of the 130 fields in this dataset were of the right data type.
+
+**MS SQL Server View**
+
+Sql Query Screenshot                                                               |                                
+:---------------------------------------------------------------------------------:|
+![](images/SQL_Screenshot.png)    
+
+You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
+
+
+
+
+## Visualization in Tableau:
+#### Report View 1
+![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_1.png)
+
+#### Report View 2
+![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_2.png)
+
+#### Report View 3
+![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_3.png)
