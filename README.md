@@ -44,7 +44,6 @@ The primary objectives of the World Energy Consumption Analysis project are:
 - Highlight countries leading in low-carbon energy adoption.
 - Assess the importance of hydro energy among top countries.
 <br />
-<br />
 
 ### About The Dataset
 This dataset is a collection of key metrics maintained by [Our World in Data](https://ourworldindata.org/energy). It is updated regularly and includes 
