@@ -171,4 +171,11 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Top_10_Countries_By_Hydro_Consumption.png" width="300">
 - **Top 10 Countries With the Most Hydro Consumption:**
-- Unite
+- China sits at the top of this chart with 44,857 GWh hydro consumption rate. Canada follows closely with 43,751 GWh, while the United States ranks third with 41,137 GWh. Brazil consumes 32,863 GWh. Russia 15,926 GWh, and Norway 15,569 GWh. Japan follows with 12,096 GWh and India is next with 10,886 GWh. Sweden with 9,377 GWh and France with 9,111 GWh completes the list with the most hydro consuming countries.
+
+- China's leadership in hydro consumption reveals its massive infrastructure projects aimed at harnessing renewable energy. Canada's high ranking reflects its utilization of abundant natural water resources for energy production. The United States' position illustrates its balanced approach to diverse energy sources, including hydropower. heavy reliance on hydropower, contributes a substantial portion to its energy consumption. Russia, Norway, Japan, and India's significant hydro consumption reflect their ongoing investments in hydro energy, and also indicate their efforts to diversify energy sources and reduce carbon emissions. Sweden and France's inclusion in the top ten highlights their ongoing investments and commitments to renewable energy.
+
+
+- <img src="images/Top_10_Countries_By_Gas_Consumption.png" width="300">
+- **Top 10 Countries With the Most Gas Consumption:**
+- China
