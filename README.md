@@ -45,6 +45,7 @@ The primary objectives of the World Energy Consumption Analysis project are:
 - Assess the importance of hydro energy among top countries.
 <br />
 <br />
+
 ### About The Dataset
 This dataset is a collection of key metrics maintained by [Our World in Data](https://ourworldindata.org/energy). It is updated regularly and includes 
 data on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and 
@@ -56,6 +57,7 @@ Gapminder, Maddison Project Database, etc.). More information on the fields in t
 All visualizations, data, and code produced by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
 <br />
 <br />
+
 ### Skills Utilized
 1. Data Cleaning
 2. Data Modelling
@@ -65,6 +67,7 @@ All visualizations, data, and code produced by Our World in Data are completely 
 6. Communication and Reporting
 <br />
 <br />
+
 ### Tools Used
 1. MS SQL Server
     - Was used to:
@@ -83,6 +86,7 @@ All visualizations, data, and code produced by Our World in Data are completely 
         6. Buttons
 <br />
 <br />
+
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
 A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data source into Tableau. I did the below:
 1. Changed the data type of thise fields that are of the wrong data type to the right data type.
@@ -105,6 +109,7 @@ You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Pr
 ![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_2.png)
 <br />
 <br />
+
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
 - Carbon Iintensity (Total): __231,714__
