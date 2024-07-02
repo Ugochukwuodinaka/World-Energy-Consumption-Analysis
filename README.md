@@ -197,4 +197,13 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Top_10_Countries_By_Gas_Consumption.png" width="300">
 
 - **Top 10 Countries With the Most Gas Consumption:**
-- China
+- In the "Top 10 Countries by Gas Consumption" analysis, the United States sits atop with a substantial consumption of 320,178 GWh. Russia follows with 140,260 GWh, Canada with 37,978 GWh and Germany with 34,996 GWh gas consumption rate. The United Kingdom is next with 33,779 GWh and Iran folloows with 32,428 GWh, Japan with a gas consumption rate of 30,791 GWh is next, while China with 29,008 GWh gas consumption follows closely. Italy with 25,351 GWh and Ukraine with (24,191 GWh consumption rates respectiverly completes the top 10 global consumers of gas.
+
+- The United States' leading gas consumption underscores its extensive use of natural gas for electricity generation, heating, and industrial processes. Russia's position highlights its domestic usage of its abundant gas resources and vast natural gas reserves. The significant consumption in Canada and Germany points to their dependence on gas for energy stability and industrial applications. The United Kingdom and Iran's usage levels indicate their reliance on natural gas as a primary energy source. Japan and China's consumption illustrates their shift towards natural gas to reduce coal dependency and lower carbon emissions. Italy and Ukraine's inclusion in the top ten underlines their energy consumption trends and the role of gas in their energy strategies.
+<br />
+<br />
+
+- <img src="images/Top_10_Countries_By_Energy_Per_Capita.png" width="300">
+
+- **Top 10 Countries With the Most Energy Per Capita:**
+- In 
