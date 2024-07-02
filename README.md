@@ -143,4 +143,25 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
 - **Energy Consumption Trend by Year:**
-- This
+- The "Energy Consumption Trend by Year" line chart lays emphases on primary energy consumption from 2000 to 2019. This chart shows a consistent increase in primary energy consumption. Starting at 338,362 GWh in 2000, there is a steady rise, reaching 486,583 GWh in 2019. Notable increments are observed in the early 2000s, with a significant jump from 361,956 GWh in 2003 to 379,661 GWh in 2004. Despite a slight dip in 2009, likely due to the global financial crisis, the overall trend remains upward. Post-2010, the growth continues, with consumption crossing the 450,000 GWh mark in 2012 and reaching nearly 470,000 GWh by 2015.
+
+- The upward trend in primary energy consumption signifies the increasing global demand driven by population growth, industrialization, and economic development. The dip in 2009 highlights the impact of global economic fluctuations on energy use. The steady rise post-2010 indicates strength and recovery in global energy demand, possibly fueled by advancements in technology and increased energy access. This trend emphasizes the need for sustainable energy policies to manage growing consumption and mitigate environmental impacts.
+
+
+- <img src="images/Carbon_Intensity_Trend_By_Year.png" width="500">
+- **Carbon Intensity Trend by Year:**
+- The "Carbon Intensity Trend by Year" from 2000 to 2020 analysis indicates a significant decrease in carbon intensity over the two decades. Starting at 12,795 in 2000, the carbon intensity initially fluctuates around the 13,000 mark until 2004, before beginning a more pronounced decline. By 2009, it drops to 11,438, continuing to fall steadily each year. Notable reductions occur after 2012, with carbon intensity decreasing from 11,281 to 10,112 by 2014. The downward trend accelerates post-2015, with a marked decline from 9,945 in 2015 to 7,118 in 2020.
+
+- The steady decline in carbon intensity reflects global efforts to reduce carbon emissions through improved energy efficiency, a shift towards cleaner energy sources, and stricter environmental regulations. The significant drop post-2012 signifies the impact of international climate agreements and the adoption of renewable energy technologies. This trend underscores the positive progress made in decarbonizing energy production, yet it also indicates the need for continued efforts to sustain and accelerate the reduction in carbon intensity to combat climate change effectively.
+
+
+- <img src="images/Top_10_Countries_By_Nuclear_Consumption.png" width="300">
+- **Top 10 Countries by Nuclear Consumption:**
+- The analysis shows that the United States leads significantly with 77,709 GWh, more than double that of France, which is second with 38,524 GWh. Japan follows with 21,509 GWh, Germany consumes 14,869 GWh and Russia utilizes 13,582 GWh. South Korea follows with (9,926 GWh and Canada next with 9,278 GWh. The United Kingdom consumes 8,907 GWh, Ukraine 7,331 GWh, and Sweden round out the top ten with 7,097 GWh, each with substantial contributions to their energy mix.
+
+- The dominance of the United States in nuclear consumption signifies its extensive nuclear infrastructure and reliance on nuclear power for electricity. France’s substantial nuclear consumption mirrors its strategy of using nuclear energy to reduce carbon emissions. Japan's significant consumption, despite reductions, indicates ongoing reliance on nuclear energy. Germany’s position, despite plans to phase out nuclear power, highlights its current energy mix. The presence of South Korea, Canada, the UK, Ukraine, and Sweden reflect their advanced nuclear programs and emphasizes the importance of nuclear energy in diversifying energy sources and reducing carbon footprints. These insights reveal a global dependence on nuclear power for stable, low-carbon energy amidst varying national energy policies.
+
+
+- <img src="images/Top_10_Countries_By_Low_Carbon_Consumption.png" width="300">
+- **Top 10 Countries by Low Carbon Consumption:**
+- The
