@@ -122,7 +122,7 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
-  <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="300">
+- <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="300">
 
 - **Top 10 Countries With the Most Electricity Generation:**
 - In this analysis of the top 10 countries by electricity generation, it shows that the United States and China lead with 134,268 TWh and 100,948 TWh, respectively. Japan and Russia follow, each generating around 34,000 TWh. India’s generates 23,869 TWh, while Germany’s generates 21,046 TWh. Canada 20,764 TWh, and France 18,488 TWh, Brazil 13,920 TWh, and the UK generates 12,528 TWh. This data stresses the strength and dominance of major economies and a shift towards sustainable energy.
