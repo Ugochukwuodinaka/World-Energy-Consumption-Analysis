@@ -83,12 +83,12 @@ All visualizations, data, and code produced by Our World in Data are completely 
         5. Tooltips
         6. Buttons
 <br />
-<br />
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
 A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data source into Tableau. I did the below:
 1. Changed the data type of thise fields that are of the wrong data type to the right data type.
 2. Made sure that all the data types of the 130 fields in this dataset were of the right data type.
+<br />
 
 **MS SQL Server View**
 
@@ -98,7 +98,7 @@ Sql Query Screenshot                                                            
 
 You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
 <br />
-<br />
+
 ## Visualization in Tableau:
 #### Report View 1
 ![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_1.png)
