@@ -141,6 +141,6 @@ From the analysis, i made the following Key findings below:
 - The leading renewable energy consumers, the United States and China, shows their global leadership in transitioning to sustainable energy. Canada's and Brazil’s high consumption is driven by their extensive use of hydropower. Russia and Norway's renewable consumption highlights their investment in hydropower, while Japan and India reflect increasing renewable adoption amid industrial expansion. France’s inclusion despite its significant reliance on nuclear energy, also invests in renewables, and Sweden noted for its strong emphasis on sustainable energy sources, also showcases their committment to renewable energy. These insights illustrate global trends towards renewable energy adoption, driven by both resource availability and policy initiatives aimed at reducing carbon footprints.
 
 
-- <img src="images/Energy_Consumption_Trend_By_Year.png" width="400">
+- <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
 - **Energy Consumption Trend by Year:**
 - This
