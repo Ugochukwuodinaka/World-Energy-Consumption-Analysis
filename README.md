@@ -10,7 +10,7 @@
 - [Project Analysis](#project-analysis)
 - [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
 - [Recommendations on How To Improve the E-Commerce Clothing Sales Channel Within Indian Locations](#recommendations-on-how-to-improve-the-e-commerce-clothing-sales-channel-within-indian-locations)
-
+<br />
 
 ## Project Overview
 ### Introduction:
