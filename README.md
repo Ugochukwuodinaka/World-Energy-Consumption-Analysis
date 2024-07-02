@@ -217,4 +217,11 @@ From the analysis, i made the following Key findings below:
 - **Top 10 Countries With Most Energy Per Capita:**
 - This analysis reveals Gibraltar at the top with large units of 30,540,961, far surpassing the second-highest, Qatar, with 10,480,614 units. Following these are the United States Virgin Islands and the United Arab Emirates with 8,604,615 and 6,891,825 units respectively. Other notable countries on the list include Canada with 5,726,904, Kuwait with 5,641,934, and Bahrain with 5,554,267. Luxembourg, Iceland, and Norway were alos featured on the top 10 countries with most energy per capita with each having 5,511,387 and 5,283,391 units, respectively.
 
-- The extremely high per capita energy consumption in Gibraltar indicates a significant energy use relative to its population size, which could be due to a combination of intensive industrial activities and lower population. Countries like Qatar and the United Arab Emirates reflect their status as major energy producers and exporters, with high per capita consumption driven by their oil and gas industries. The presence of developed countries like Canada, Luxembourg, and Norway suggests that high living standards and industrial activities contribute significantly to their energy consumption. 
+- The extremely high per capita energy consumption in Gibraltar indicates a significant energy use relative to its population size, which could be due to a combination of intensive industrial activities and lower population. Countries like Qatar and the United Arab Emirates reflect their status as major energy producers and exporters, with high per capita consumption driven by their oil and gas industries. The presence of developed countries like Canada, Luxembourg, and Norway suggests that high living standards and industrial activities contribute significantly to their energy consumption.
+<br />
+<br />
+
+## Tableau Dashboard Visualization:
+You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WORLDENERGYCONSUMPTIONANALYSIS_17037361849100/Dashboard1)
+<br />
+<br />
