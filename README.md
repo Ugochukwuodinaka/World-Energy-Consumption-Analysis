@@ -65,7 +65,6 @@ All visualizations, data, and code produced by Our World in Data are completely 
 5. Critical Thinking and Problem Solving
 6. Communication and Reporting
 <br />
-<br />
 
 ### Tools Used
 1. MS SQL Server
