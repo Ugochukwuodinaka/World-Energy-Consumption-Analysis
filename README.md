@@ -129,6 +129,7 @@ From the analysis, i made the following Key findings below:
 <br />
 
 <img src="images/Top_10_Countries_By_Energy_Consumption.png" width="300">
+
 - **Top 10 Countries With the Most Energy Consumption:**
 - The top 10 countries by energy consumption vary significantly in their energy usage due to economic activities and industrial bases. The United States leads with 1,248,243 GWh, China follows with 742,645 GWh, Russia consumes 359,606 GWh, Japan utilizes 266,010 GWh. Germany consumes 213,441 GWh, India’s 102,072 GWh, Canada 164,126 GWh, France 138,695 GWh, the UK 135,854 GWh, and Brazil raps up the top 10 with an energy consumption of 97,897 GWh.
 
