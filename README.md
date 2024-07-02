@@ -9,7 +9,7 @@
 - [Visualization in Tableau](#visualization-in-tableau)
 - [Project Analysis](#project-analysis)
 - [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
-- [Recommendations on Strategies for Improving Energy Efficiency, Increasing Renewable Energy Adoption, and Reducing Carbon Emissions](#recommendations-on-strategies-for-improving-energy-efficiency,-increasing-renewable-energy-adoption,-and-reducing-carbon-emissions)
+- [Recommendations on Strategies for Improving Energy Efficiency, Increasing Renewable Energy Adoption, and Reducing Carbon Emissions](#recommendations-on-strategies-for-improving-energy-efficiency-increasing-renewable-energy-adoption-and-reducing-carbon-emissions)
 <br />
 
 ## Project Overview
