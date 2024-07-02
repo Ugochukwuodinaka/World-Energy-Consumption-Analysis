@@ -98,6 +98,7 @@ Sql Query Screenshot                                                            
 
 You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
 <br />
+<br />
 
 ## Visualization in Tableau:
 #### Report View 1
