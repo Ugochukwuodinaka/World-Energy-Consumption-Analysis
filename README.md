@@ -235,7 +235,7 @@ From the analysis, i made the following Key findings below:
 You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WORLDENERGYCONSUMPTIONANALYSIS_17037361849100/Dashboard1)
 <br />
 <br />
-
+<br />
 
 ## Recommendations on Strategies for Improving Energy Efficiency, Increasing Renewable Energy Adoption, and Reducing Carbon Emissions
 - Implement smart grids and advanced metering infrastructure to optimize electricity distribution, reduce losses, and enhance the integration of renewable energy sources.
