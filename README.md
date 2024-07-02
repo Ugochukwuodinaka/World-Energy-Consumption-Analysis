@@ -106,10 +106,6 @@ You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Pr
 #### Report View 2
 ![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_2.png)
 
-#### Report View 3
-![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_3.png)
-
-
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
