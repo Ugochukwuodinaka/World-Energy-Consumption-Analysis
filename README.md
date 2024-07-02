@@ -118,7 +118,7 @@ From the analysis, i made the following Key findings below:
 - Renewable Energy Consumption (Total): __1,026,638__
 - Renewable Energy Share (%): __7__
 <br />
-
+<br />
 
 - <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="300">
 - **Top 10 Countries With the Most Electricity Generation:**
