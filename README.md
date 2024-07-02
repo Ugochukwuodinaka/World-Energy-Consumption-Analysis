@@ -116,7 +116,7 @@ From the analysis, i made the following Key findings below:
 - Hydro Consumption (Total): __840,003__
 - Nuclear Consumption (Total): __687,171__
 - Renewable Energy Consumption (Total): __1,026,638__
-- Renewable Energy Share %: __7__
+- Renewable Energy Share (%): __7__
 -
 
 
