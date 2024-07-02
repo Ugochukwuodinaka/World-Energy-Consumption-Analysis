@@ -121,21 +121,21 @@ From the analysis, i made the following Key findings below:
 
 
 - <img src="images/Top_10_Countries_By_Electricity_Generation.png" width="300">
-- **Top 10 Countries by Electricity Generation:**
+- **Top 10 Countries With the Most Electricity Generation:**
 - In this analysis of the top 10 countries by electricity generation, it shows that the United States and China lead with 134,268 TWh and 100,948 TWh, respectively. Japan and Russia follow, each generating around 34,000 TWh. India’s generates 23,869 TWh, while Germany’s generates 21,046 TWh. Canada 20,764 TWh, and France 18,488 TWh, Brazil 13,920 TWh, and the UK generates 12,528 TWh. This data stresses the strength and dominance of major economies and a shift towards sustainable energy.
 
 - This analysis also reveals that the United States and China dominate due to their vast industrial bases. Japan and Russia follow closely, driven by advanced technology and abundant natural resources. India’s growing energy demand reflects its rapid economic expansion, while Germany’s focus on renewables highlights its commitment to sustainable energy. Canada leverages hydropower, France relies on nuclear energy, Brazil excels in hydropower, and the UK is transitioning to a diverse energy mix of of natural gas, nuclear, and renewables. This data highlights the energy production leadership of major economies and a global shift towards renewable and low-carbon energy sources.
 
 
 - <img src="images/Top_10_Countries_By_Energy_Consumption.png" width="300">
-- **Top 10 Countries by Energy Consumption:**
+- **Top 10 Countries With the Most Energy Consumption:**
 - The top 10 countries by energy consumption vary significantly in their energy usage due to economic activities and industrial bases. The United States leads with 1,248,243 GWh, China follows with 742,645 GWh, Russia consumes 359,606 GWh, Japan utilizes 266,010 GWh. Germany consumes 213,441 GWh, India’s 102,072 GWh, Canada 164,126 GWh, France 138,695 GWh, the UK 135,854 GWh, and Brazil raps up the top 10 with an energy consumption of 97,897 GWh.
 
 - The United States and China dominate global energy consumption, reflecting their economic leadership. Industrialized nations like Russia, Japan, and Germany also show high consumption due to advanced industrial activities. Emerging economies, particularly India, are experiencing rapid energy demand growth. France and Brazil shows significant reliance on nuclear and hydropower, respectively, indicating strong sustainable energy practices. The UK’s energy consumption reveals a shift towards a diverse and sustainable energy mix, reducing fossil fuel dependence. These insights underscore global variations in energy consumption patterns, driven by economic activities, energy policies, and development levels.
 
 
 - <img src="images/Top_10_Countries_By_Renewable_Energy_Consumption.png" width="300">
-- **Top 10 Countries by Renewable Energy Consumption:**
+- **Top 10 Countries With the Most Renewable Energy Consumption:**
 - This analysis shows that the United States leads with 60,752 GWh, followed by China with 53,736 GWh of renewable energy consumption. Canada consumes 45,384 GWh and Brazil 38,914 GWh. Russia utilizes 15,961 GWh, while Norway consumes 15,667 GWh. Japan consumes 14,974 GWh, India 13,137 GWh, and France 10,700 GWh. Sweden made it to the top 10 with a renewable energy consumption of 10,460 GWh.
 
 - The leading renewable energy consumers, the United States and China, shows their global leadership in transitioning to sustainable energy. Canada's and Brazil’s high consumption is driven by their extensive use of hydropower. Russia and Norway's renewable consumption highlights their investment in hydropower, while Japan and India reflect increasing renewable adoption amid industrial expansion. France’s inclusion despite its significant reliance on nuclear energy, also invests in renewables, and Sweden noted for its strong emphasis on sustainable energy sources, also showcases their committment to renewable energy. These insights illustrate global trends towards renewable energy adoption, driven by both resource availability and policy initiatives aimed at reducing carbon footprints.
@@ -156,12 +156,19 @@ From the analysis, i made the following Key findings below:
 
 
 - <img src="images/Top_10_Countries_By_Nuclear_Consumption.png" width="300">
-- **Top 10 Countries by Nuclear Consumption:**
+- **Top 10 Countries With the Most Nuclear Consumption:**
 - The analysis shows that the United States leads significantly with 77,709 GWh, more than double that of France, which is second with 38,524 GWh. Japan follows with 21,509 GWh, Germany consumes 14,869 GWh and Russia utilizes 13,582 GWh. South Korea follows with (9,926 GWh and Canada next with 9,278 GWh. The United Kingdom consumes 8,907 GWh, Ukraine 7,331 GWh, and Sweden round out the top ten with 7,097 GWh, each with substantial contributions to their energy mix.
 
 - The dominance of the United States in nuclear consumption signifies its extensive nuclear infrastructure and reliance on nuclear power for electricity. France’s substantial nuclear consumption mirrors its strategy of using nuclear energy to reduce carbon emissions. Japan's significant consumption, despite reductions, indicates ongoing reliance on nuclear energy. Germany’s position, despite plans to phase out nuclear power, highlights its current energy mix. The presence of South Korea, Canada, the UK, Ukraine, and Sweden reflect their advanced nuclear programs and emphasizes the importance of nuclear energy in diversifying energy sources and reducing carbon footprints. These insights reveal a global dependence on nuclear power for stable, low-carbon energy amidst varying national energy policies.
 
 
 - <img src="images/Top_10_Countries_By_Low_Carbon_Consumption.png" width="300">
-- **Top 10 Countries by Low Carbon Consumption:**
-- The
+- **Top 10 Countries With the Most Low Carbon Consumption:**
+- United States is at the forefront of the top 10 countries with the most low carbon consumption with 138,461 GWh, China follows with 59,700 GWh, Canada (54,662 GWh) and France (49,224 GWh), respectively. Brazil comes next with a low carbon consumption rate of 39,720 GWh, while Japan consumes 36,484 GWh. Russia is next with 29,543 GWh and Germany with 23,443 GWh. Sweden with 17,557 GWh and Norway with 15,667 GWh completes the list.
+
+- The United States top position in low-carbon consumption reflecting its substantial investment in low-carbon energy. China's position shows its strategic expansion in renewable energy to meet rising energy demands sustainably. Canada and Brazil's dependence on hydropower and France’s focus on nuclear energy significantly reduce their carbon footprints. Japan's continues investing in low-carbon technologies despite nuclear challenges, along with Russia and Germany's transition efforts and strategies, reflect global efforts to shift towards cleaner energy. Sweden and Norway set benchmarks with their robust commitments to renewable energy, showcasing effective models for sustainable energy consumption.
+
+
+- <img src="images/Top_10_Countries_By_Hydro_Consumption.png" width="300">
+- **Top 10 Countries With the Most Hydro Consumption:**
+- Unite
