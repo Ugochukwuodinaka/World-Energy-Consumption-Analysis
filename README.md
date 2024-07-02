@@ -9,7 +9,7 @@
 - [Visualization in Tableau](#visualization-in-tableau)
 - [Project Analysis](#project-analysis)
 - [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
-- [Recommendations on How To Improve the E-Commerce Clothing Sales Channel Within Indian Locations](#recommendations-on-how-to-improve-the-e-commerce-clothing-sales-channel-within-indian-locations)
+- [Recommendations on Strategies for Improving Energy Efficiency, Increasing Renewable Energy Adoption, and Reducing Carbon Emissions](#recommendations-on-strategies-for-improving-energy-efficiency,-increasing-renewable-energy-adoption,-and-reducing-carbon-emissions)
 <br />
 
 ## Project Overview
