@@ -136,4 +136,11 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Top_10_Countries_By_Renewable_Energy_Consumption.png" width="300">
 - **Top 10 Countries by Renewable Energy Consumption:**
-- The
+- This analysis shows that the United States leads with 60,752 GWh, followed by China with 53,736 GWh of renewable energy consumption. Canada consumes 45,384 GWh and Brazil 38,914 GWh. Russia utilizes 15,961 GWh, while Norway consumes 15,667 GWh. Japan consumes 14,974 GWh, India 13,137 GWh, and France 10,700 GWh. Sweden made it to the top 10 with a renewable energy consumption of 10,460 GWh.
+
+- The leading renewable energy consumers, the United States and China, shows their global leadership in transitioning to sustainable energy. Canada's and Brazil’s high consumption is driven by their extensive use of hydropower. Russia and Norway's renewable consumption highlights their investment in hydropower, while Japan and India reflect increasing renewable adoption amid industrial expansion. France’s inclusion despite its significant reliance on nuclear energy, also invests in renewables, and Sweden noted for its strong emphasis on sustainable energy sources, also showcases their committment to renewable energy. These insights illustrate global trends towards renewable energy adoption, driven by both resource availability and policy initiatives aimed at reducing carbon footprints.
+
+
+- <img src="images/Energy_Consumption_Trend_By_Year.png" width="300">
+- **Energy Consumption Trend by Year:**
+- This
