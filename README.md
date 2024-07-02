@@ -43,8 +43,8 @@ The primary objectives of the World Energy Consumption Analysis project are:
 - Understand the role of nuclear energy in top countries.
 - Highlight countries leading in low-carbon energy adoption.
 - Assess the importance of hydro energy among top countries.
-
-
+<br />
+<br />
 
 ### About The Dataset
 This dataset is a collection of key metrics maintained by [Our World in Data](https://ourworldindata.org/energy). It is updated regularly and includes 
@@ -55,7 +55,8 @@ The other variables are collected from a variety of sources (United Nations, Wor
 Gapminder, Maddison Project Database, etc.). More information on the fields in ths data is available in [our codebook](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv). The dataset for this analysis can be accessd [here](World%20Energy%20Consumption.csv). The variables in this data represent all of our main data related to energy consumption, energy mix, electricity mix as well as other variables of potential interest.
 
 All visualizations, data, and code produced by Our World in Data are completely open access under the [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
-
+<br />
+<br />
 
 ### Skills Utilized
 1. Data Cleaning
@@ -64,6 +65,8 @@ All visualizations, data, and code produced by Our World in Data are completely 
 4. Descriptive Analytics
 5. Critical Thinking and Problem Solving
 6. Communication and Reporting
+<br />
+<br />
 
 ### Tools Used
 1. MS SQL Server
@@ -81,7 +84,8 @@ All visualizations, data, and code produced by Our World in Data are completely 
         4. Filters
         5. Tooltips
         6. Buttons
-     
+<br />
+<br />
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
 A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data source into Tableau. I did the below:
@@ -95,9 +99,8 @@ Sql Query Screenshot                                                            
 ![](images/SQL_Screenshot.png)    
 
 You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
-
-
-
+<br />
+<br />
 
 ## Visualization in Tableau:
 #### Report View 1
@@ -105,7 +108,8 @@ You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Pr
 
 #### Report View 2
 ![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_2.png)
-
+<br />
+<br />
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
