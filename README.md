@@ -1,5 +1,15 @@
 # World Energy Consumption Analysis
 ![](images/World_Energy_Consumption_Photo.jpg)
+<br />
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Tableau](#visualization-in-tableau)
+- [Project Analysis](#project-analysis)
+- [Tableau Dashboard Visualization](#tableau-dashboard-visualization)  
+- [Recommendations on How To Improve the E-Commerce Clothing Sales Channel Within Indian Locations](#recommendations-on-how-to-improve-the-e-commerce-clothing-sales-channel-within-indian-locations)
 
 
 ## Project Overview
