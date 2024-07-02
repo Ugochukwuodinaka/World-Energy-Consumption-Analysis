@@ -127,6 +127,13 @@ From the analysis, i made the following Key findings below:
 - This analysis also reveals that the United States and China dominate due to their vast industrial bases. Japan and Russia follow closely, driven by advanced technology and abundant natural resources. India’s growing energy demand reflects its rapid economic expansion, while Germany’s focus on renewables highlights its commitment to sustainable energy. Canada leverages hydropower, France relies on nuclear energy, Brazil excels in hydropower, and the UK is transitioning to a diverse energy mix of of natural gas, nuclear, and renewables. This data highlights the energy production leadership of major economies and a global shift towards renewable and low-carbon energy sources.
 
 
-- <img src="images/Top_10_Countries_By_GDP_%26_Population.png" width="300">
-- **Top 10 Countries by GDP and Population:**
-- In this analysis
+- <img src="images/Top_10_Countries_By_Energy_Consumption.png" width="300">
+- **Top 10 Countries by Energy Consumption:**
+- The top 10 countries by energy consumption vary significantly in their energy usage due to economic activities and industrial bases. The United States leads with 1,248,243 GWh, China follows with 742,645 GWh, Russia consumes 359,606 GWh, Japan utilizes 266,010 GWh. Germany consumes 213,441 GWh, India’s 102,072 GWh, Canada 164,126 GWh, France 138,695 GWh, the UK 135,854 GWh, and Brazil raps up the top 10 with an energy consumption of 97,897 GWh.
+
+- The United States and China dominate global energy consumption, reflecting their economic leadership. Industrialized nations like Russia, Japan, and Germany also show high consumption due to advanced industrial activities. Emerging economies, particularly India, are experiencing rapid energy demand growth. France and Brazil shows significant reliance on nuclear and hydropower, respectively, indicating strong sustainable energy practices. The UK’s energy consumption reveals a shift towards a diverse and sustainable energy mix, reducing fossil fuel dependence. These insights underscore global variations in energy consumption patterns, driven by economic activities, energy policies, and development levels.
+
+
+- <img src="images/Top_10_Countries_By_Renewable_Energy_Consumption.png" width="300">
+- **Top 10 Countries by Renewable Energy Consumption:**
+- The
