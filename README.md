@@ -206,9 +206,9 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Top_10_Countries_By_Energy_Per_GDP.png" width="300">
 
 - **Top 10 Countries With Most Energy Per GDP:**
-- The analysis of the "Top 10 Countries by Energy Per Capita" chart is led by Trinidad and Tobago, with an energy consumption of 299.3 units per capita. Bahrain follows with 265.3, and Singapore with 261.1 units. The data reveals a significant variation in energy consumption per capita among different countries. The high values in countries like Trinidad and Tobago and Bahrain are likely due to their small populations and energy-intensive industries, such as oil and gas production. Conversely, countries like Canada and Qatar, while also high, reflect their substantial energy resources and lower population density.
+- The analysis of the "Top 10 Countries by Energy Per GDP" chart is led by Trinidad and Tobago, with an energy intensity of 299.3 units per GDP. Bahrain and Singapore follow, with values of 265.3 and 261.1 units per GDP, respectively. These figures indicate the amount of energy consumed relative to the economic output of these nations. Countries like Mongolia and North Korea, with energy intensities of 220.9 and 207.3, also appear on this list, reflecting significant energy consumption in relation to their GDPs.
 
-- This analysis highlights the disparity in energy consumption per capita across countries, indicating varying levels of industrialization, resource availability, and energy efficiency. Countries with high per capita energy consumption often have significant energy-intensive industries or are major energy producers. 
+- The high energy per GDP values in countries like Trinidad and Tobago and Bahrain suggest that their economies are highly energy-dependent, often due to energy-intensive industries such as oil and gas. This implies that these countries consume a substantial amount of energy to generate economic output, revealing potential inefficiencies or a heavy reliance on energy resources. 
 <br />
 <br />
 
