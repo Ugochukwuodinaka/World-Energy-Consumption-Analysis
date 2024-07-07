@@ -85,7 +85,7 @@ All visualizations, data, and code produced by Our World in Data are completely 
         4. Load all the datasets for this analysis.
 
 2. Tableau (Was used to create dashboards for this analysis)
-    - The following Tableau were incorporated:
+    - The following Tableau tools were incorporated:
         1. Calculated Fields
         2. Geospatial Analysis
         3. Page Navigation
