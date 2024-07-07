@@ -87,11 +87,10 @@ All visualizations, data, and code produced by Our World in Data are completely 
 2. Tableau (Was used to create dashboards for this analysis)
     - The following Tableau tools were incorporated:
         1. Calculated Fields
-        2. Geospatial Analysis
-        3. Page Navigation
-        4. Filters
-        5. Tooltips
-        6. Buttons
+        2. Page Navigation
+        3. Filters
+        4. Tooltips
+        5. Buttons
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
