@@ -95,7 +95,7 @@ All visualizations, data, and code produced by Our World in Data are completely 
 
 ### Data Cleaning, Transformation and Loading using MS SQL Server:
 A little data cleaning was done here because the data was almost clean as at when it was accessed from the source, i just had little work to do here before importing the data into Tableau. I did the below:
-1. Changed the data type of thise fields that are of the wrong data type to the right data type.
+1. Changed the data type of the fields that are of the wrong data type to the right data type.
 2. Made sure that all the data types of the 130 fields in this dataset were of the right data type.
 <br />
 
