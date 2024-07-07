@@ -99,13 +99,13 @@ A little data cleaning was done here because the data was almost clean as at whe
 2. Made sure that all the data types of the 130 fields in this dataset were of the right data type.
 <br />
 
-**MS SQL Server View**
+**SQL View**
 
 Sql Query Screenshot                                                               |                                
 :---------------------------------------------------------------------------------:|
 ![](images/SQL_Screenshot.png)    
 
-You can preview the MYSQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
+You can preview the SQL query file [here](World_Energy_Consumption_Analysis_Project.sql)
 <br />
 <br />
 
