@@ -249,4 +249,4 @@ You can view and interact with this dashboard report [here](https://public.table
 <br />
 
 ## Thank You For Following Through!
-![](images/World_Energy_Consumption_Photo.jpg)
+![](images/Thank%20you.jpg)
