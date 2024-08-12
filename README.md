@@ -69,10 +69,8 @@ All the data is provided by Our World in Data are completely open access under t
 ### Tools Used
 1. MS SQL Server
     - Was used to:
-        1. Extract,
-        2. Clean,
-        3. Transform,
-        4. Load all the datasets for this analysis.
+        1. Clean,
+        2. Transform the datasets for this analysis.
 
 2. Tableau (Was used to create dashboards for this analysis)
     - The following Tableau tools were incorporated:
