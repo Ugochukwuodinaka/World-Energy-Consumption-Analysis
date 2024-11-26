@@ -98,11 +98,14 @@ You can preview the SQL query file [here](World_Energy_Consumption_Analysis_Proj
 <br />
 
 ## Visualization in Tableau:
-#### Report View 1
-![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_1.png)
+#### Overview
+![](images/Overview.png)
 
-#### Report View 2
-![](images/WORLD_ENERGY_CONSUMPTION_ANALYSIS_2.png)
+#### Trends
+![](images/Trends.png)
+
+#### Insights
+![](images/Insights.png)
 <br />
 <br />
 
