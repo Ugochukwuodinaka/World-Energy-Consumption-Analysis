@@ -162,7 +162,28 @@ From the analysis, i made the following Key findings below:
 - France leads in nuclear energy, which accounts for 41% of its energy consumption, while Belgium and Bulgaria follow with 38% and 34%, respectively. In contrast, Africa and Australia have negligible nuclear use, with contributions below 1%.
 
 - Fossil Fuel Dependence
-China relies on coal for 56% of its energy, India for 44%, and South Africa for 69%, reflecting high carbon emissions. Their renewable energy contributions are below 10%, signaling significant opportunities for clean energy investments.
+- China relies on coal for 56% of its energy, India for 44%, and South Africa for 69%, reflecting high carbon emissions. Their renewable energy contributions are below 10%, signaling significant opportunities for clean energy investments.
+
+- Balanced Energy Mix
+- France demonstrates a diversified energy mix with 41% from nuclear, 32% from oil, and 16% from renewables, serving as a model for balancing sustainability and energy security.
+
+- Countries with Minimal Renewable Energy
+- Kuwait (1%), Israel (3%), and Kazakhstan (5%) are highly dependent on fossil fuels, with renewables contributing minimally, indicating challenges in transitioning to clean energy.
+
+- Top Oil Consumers
+- Iraq derives 91% of its energy from oil, Ecuador 78%, and Hong Kong 72%, highlighting their heavy reliance on oil for energy production and transportation.
+
+- Regions with Potential for Renewable Growth
+- Africa and Asia rely on fossil fuels like oil and coal for over 80% of their energy, but with abundant sunlight and wind resources, their renewable contributions, currently under 10%, can grow significantly with investments.
+
+- Dependence on Gas as a Transitional Fuel
+- Algeria relies on natural gas for 57% of its energy, Azerbaijan 62%, and Bangladesh 65%, demonstrating the importance of gas in their energy strategies while they gradually explore renewables.
+
+- Emerging Renewable Energy Markets
+- Chile generates 21% of its energy from renewables, with a focus on solar and wind, while Argentina is at 17%, reflecting growing efforts to reduce fossil fuel reliance in South America.
+
+- Energy Diversity in Europe
+- Countries like Germany balance energy sources with 33% from oil, 25% from renewables, and 12% from nuclear, showcasing Europe's focus on energy security and sustainability.
 <br />
 <br />
 - <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
