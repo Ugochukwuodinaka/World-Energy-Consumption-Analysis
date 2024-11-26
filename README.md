@@ -149,6 +149,15 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
+- <img src="images/Energy_Mix_Distribution.png" width="500">
+
+- **Energy Mix Distribution:**
+- Dominance of Energy Sources Globally
+- Oil remains the dominant energy source globally, with Kuwait relying on oil for 99% of its energy, while China consumes over 56% of its energy from coal. Renewables make up less than 10% of the energy mix in most countries, except for leaders like Iceland, where renewables contribute 89%.
+
+- The top 2 renewable energy consumers US and China are leading the way to a sustainable future. Canada and Brazil are high consumers because of their large hydropower capacity. Russia and Norway are investing in hydropower, Japan and India are increasing their renewable adoption with industrial growth. France is in the list despite being a big nuclear player, they also invest in renewables and Sweden is known for its strong focus on sustainable energy sources, they also commit to renewable energy. These numbers show the trend towards renewable energy adoption driven by both resource availability and policy to reduce carbon footprint.
+<br />
+<br />
 - <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
 
 - **Energy Consumption Trend by Year:**
