@@ -207,6 +207,47 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
+- <img src="images/Year_over_Year_Changes_in_Energy_Consumption.png" width="500">
+
+- **Year-Over-Year Changes In Energy Consumption:**
+- __Trend Analysis__
+- From 1966 to 2019, energy consumption change trends show periods of steady growth, significant spikes, and occasional declines.
+- Example Insight: The largest positive change occurred in 2010 (+19,958.84 TWh), while the largest decline was in 2009 (-5,916.07 TWh).
+
+- __Growth vs. Decline Periods__
+- Insight: Identify years with negative consumption changes and their potential causes (e.g., economic crises or policy changes).
+- Highlight periods of strong growth (e.g., 2004–2007) and periods of stagnation or slow growth (e.g., early 1980s).
+
+- __Growth vs. Decline Periods__
+   - __Growth Years:__
+      - Strong growth was observed in 1984 (+12,417.24 TWh), 2004 (+17,704.74 TWh), and 2010 (+19,958.84 TWh).
+      - The late 2000s (2003–2007) saw consistent growth, with increases of +12,325.03 TWh (2003) and +13,193.44 TWh (2005).
+   - __Decline Years:__
+      - 1980 (-1,652.68 TWh), 2009 (-5,916.07 TWh), and minor declines in the early 1980s (1981: -812.47 TWh, 1982: -627.16 TWh) were periods of negative change.
+
+- __Significant Peaks and Dips__
+   - __Peaks:__
+      - The highest yearly increase was in 2010 (+19,958.84 TWh), likely reflecting recovery from the 2008 financial crisis and industrial energy demands.
+      - Other peaks include 2004 (+17,704.74 TWh) and 1984 (+12,417.24 TWh).
+
+- __Rate of Change__
+   - Average yearly change over the dataset: ~6,342 TWh/year.
+   - Decade Comparison:
+      - 1980s: Mixed, with small growth and declines (e.g., 1980–1983 averaging +312 TWh/year).
+      - 2000s: Rapid growth, averaging ~8,000 TWh/year, with significant spikes in 2004 (+17,704.74 TWh) and 2010 (+19,958.84 TWh).
+
+- __Impact of Global Events__
+   - 1970s Energy Crisis: After steady growth (e.g., 1973: +10,792.72 TWh), consumption dropped in 1974 (+1,065.79 TWh) due to oil shocks.
+   - 1980s Oil Crash: Declines in 1980 (-1,652.68 TWh) and 1982 (-627.16 TWh) coincide with economic recessions.
+   - 2008 Global Recession: Significant decline in 2009 (-5,916.07 TWh) followed by a sharp recovery in 2010 (+19,958.84 TWh).
+
+- __Future Projections___
+   - Using the general upward trend, energy consumption is projected to continue growing unless interrupted by economic or environmental challenges. The sharp growth observed post-2000s suggests increased energy 
+     needs driven by industrialization and technological advancements.
+
+<br />
+<br />
+
 - <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
 
 - **Energy Consumption Trend by Year:**
