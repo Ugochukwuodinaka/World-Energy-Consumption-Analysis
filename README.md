@@ -257,6 +257,47 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
+- <img src="images/Total_Energy_Consumption_Over_Time_By_Source.png" width="500">
+
+- **Total Energy Consumption Over Time By Source:**
+- __Coal Consumption:__
+- Showed a general upward trend from 1965 to 2019, with peak consumption in 2007. Consumption started declining post-2014, indicating a shift toward cleaner energy.
+
+- __Nuclear Energy:__
+- Consistent increase until the late 1980s, followed by stagnation and decline post-2010. This decline is due to safety concerns and competition from renewable energy sources.
+
+- __Oil Consumption:__
+- Consistently increased from 1965 to 2019, peaking in 2019. Recent stabilization suggests shifts toward alternatives like electric vehicles.
+
+- __Renewables:__
+- Grew rapidly, particularly after 2000, surpassing 45,000 units in 2019. This increase is driven by technological advances, policy changes, and global climate goals.
+
+- __Shifting Energy Mix:__
+- Renewables are gaining market share, while coal and nuclear are declining. Oil remains dominant but is stabilizing.
+
+- __Drivers of Change:__
+- Policy changes, technological innovation, and climate awareness are key drivers of the energy transition towards renewables.
+
+- __Future Outlook:__
+- The global energy landscape will likely continue moving toward renewables, with declining coal and nuclear use and stabilizing oil consumption
+<br />
+<br />
+
+- <img src="images/Low-Carbon_Energy_Generation.png" width="500">
+
+- **Low-Carbon Energy Generation:**
+- __Overall Growth in Low-Carbon Energy:__ Low carbon electricity has increased steadily from 1985 to 2019, peaking at around 29,774.53 in 2019, with a significant dip to 19,653.38 in 2020, likely due to global shifts or temporary disruptions.
+
+- __Nuclear Energy:__ Nuclear electricity generation has shown a slow, steady increase through 2019, peaking at 8,239.51, but dropped significantly to 5,231.27 in 2020, possibly reflecting reduced output or closures of nuclear plants.
+
+- __Solar Energy:__ Solar electricity has seen exponential growth, especially post-2000, with generation increasing from 0.04 in 1985 to 2,148.11 in 2019. However, it dropped to 1,660.73 in 2020, reflecting a possible reduction in installations or generation due to external factors.
+
+- __Wind Energy:__ Wind electricity has also grown rapidly, increasing from 0.19 in 1985 to 4,280.31 in 2019. A notable decline to 3,158.64 in 2020 could be attributed to a drop in wind availability or installation.
+
+- __Trends:__ Both solar and wind energy are showing rapid growth, while nuclear energy’s growth has slowed, and its decline in 2020 suggests a shift away from traditional energy sources towards renewables. The 2020 drops across all energy types may point to global disruptions, such as the COVID-19 pandemic or policy changes.
+<br />
+<br />
+
 - <img src="images/Carbon_Intensity_Trend_By_Year.png" width="500">
 
 - **Carbon Intensity Trend by Year:**
