@@ -186,6 +186,27 @@ From the analysis, i made the following Key findings below:
 - Countries like Germany balance energy sources with 33% from oil, 25% from renewables, and 12% from nuclear, showcasing Europe's focus on energy security and sustainability.
 <br />
 <br />
+
+- <img src="images/Fossil_Fuels_vs_Renewables_(Comparison).png" width="500">
+
+- **Fossil Fuels vs Renewables (Comparison):**
+- Renewables Growth Over Time:
+- Renewable energy consumption shows a consistent growth trend from 7,159.03 in 1966 to 43,785.91 in 2019, with significant acceleration after 2000, reflecting increased global focus on sustainable energy sources.
+  
+- Fossil Fuels Volatility:
+- Fossil fuel consumption trends display significant volatility, with periods of decline, such as in 1974 (-1,878.09) and 2009 (-7,136.96), likely driven by economic recessions, energy crises, or shifts toward alternative energy.
+
+- Over Point:
+- From the data, renewables surpass fossil fuels in overall trend growth around the 2010s, highlighting the global transition toward cleaner energy solutions.
+
+- Sharp Renewables Growth in the 21st Century:
+- etween 2000 and 2019, renewable energy consumption increased by over 23,000 units, nearly doubling, due to technological advancements, policy incentives, and global climate commitments.
+
+- Economic and Policy Impacts on Fossil Fuels:
+- Fluctuations in fossil fuel trends, especially declines in 1980, 1990, and 2009, align with historical economic crises or increased global awareness of environmental concerns.
+<br />
+<br />
+
 - <img src="images/Energy_Consumption_Trend_By_Year.png" width="500">
 
 - **Energy Consumption Trend by Year:**
