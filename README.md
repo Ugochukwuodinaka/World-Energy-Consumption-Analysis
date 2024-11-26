@@ -298,6 +298,21 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
+- <img src="images/Population_vs_Energy_Consumption_Per_Capita.png" width="500">
+
+- **Population vs Energy Consumption Per Capita:**
+- __Increasing Energy Per Capita (1965-1980):__ From 1965 to 1980, Energy Per Capita saw significant growth, peaking at 4.26 million in 1980. This indicates higher energy availability or consumption relative to population growth.
+
+- __Fluctuations (1980-2016):__ After 1980, energy per capita grew steadily but started stabilizing around the 1990s, with a slight decline from 2000 onwards, especially post-2016, where it dropped drastically to 3.68 million in 2017.
+
+- __Population Growth Impact:__ Over the years, the global population consistently increased, reaching 7.6 billion in 1965 to nearly 7.8 billion by 2019. Despite this, energy consumption per capita shows signs of volatility in recent years.
+
+- __Recent Decline (2016-2019):__ There's a noticeable drop in energy per capita from 2016 to 2019, possibly indicating more efficient energy use, reduced global energy demand, or a shift to renewable energy sources.
+
+- __Energy Efficiency Trends:__ Although energy per capita was highest in 1980, it decreased significantly after 2016. This could signal global efforts to reduce per capita energy consumption despite population growth.
+<br />
+<br />
+
 - <img src="images/Carbon_Intensity_Trend_By_Year.png" width="500">
 
 - **Carbon Intensity Trend by Year:**
