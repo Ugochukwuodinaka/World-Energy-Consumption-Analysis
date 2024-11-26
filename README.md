@@ -322,62 +322,35 @@ From the analysis, i made the following Key findings below:
 <br />
 <br />
 
-- <img src="images/Top_10_Countries_By_Nuclear_Consumption.png" width="300">
+- <img src="images/Energy_Per_GDP_&_Energy_Per_Capita_of_Countries_Globally.png" width="500">
 
-- **Top 10 Countries With Most Nuclear Consumption:**
-- The numbers show the US is way ahead with 77,709 GWh, more than double France which is second with 38,524 GWh. Japan is third with 21,509 GWh, Germany 14,869 GWh and Russia 13,582 GWh. South Korea is next with 9,926 GWh and Canada 9,278 GWh. The UK is 8,907 GWh, Ukraine 7,331 GWh and Sweden 7,097 GWh. Each of these countries has a significant chunk of their energy mix.
+- **Energy Per GDP & Energy Per Capita of Countries Globally:**
+- __Energy Efficiency vs Economic Output:__
+   - __Venezuela__ stands out with an extremely high __Energy Per Capita__ of 1,565,458.26, likely reflecting energy inefficiencies or subsidies, despite its relatively lower __Energy Per GDP__ of 166.96, 
+     indicating a low economic return on energy consumption.
+   - __Singapore__ shows the highest __Energy Per GDP__ at 261.07, pointing to its robust economic output per unit of energy consumed. Despite a high GDP, the nation remains energy-efficient.
 
-- The US dominance in nuclear consumption means they have a big nuclear infrastructure and rely on nuclear power for electricity. France’s high nuclear consumption is because of their strategy to reduce carbon emissions. Japan’s high consumption despite reduction means they still rely on nuclear power. Germany’s position despite plans to phase out nuclear power means they are still in the energy mix. South Korea, Canada, UK, Ukraine and Sweden being in the top 10 means they have advanced nuclear programs and nuclear energy is important for diversifying energy sources and reducing carbon footprint. These numbers show the world relies on nuclear power for stable low carbon energy despite different national energy policies.
+- __Developing Economies:__
+   - Countries like __Zimbabwe__ and __Uganda__ demonstrate a significant discrepancy between __Energy Per Capita__ and __Energy Per GDP__, suggesting that energy consumption per person is high relative to the 
+     economic productivity in these nations, signaling energy inefficiencies or reliance on less efficient energy sources.
+
+- __Geographic Trends:__
+   - Energy consumption in many developed nations like the __United States__, __Germany__, and __United Kingdom__ balances energy usage and GDP, showcasing effective energy utilization. However, regions like  
+     __Sub-Saharan Africa__ and __South Asia__, with lower __Energy Per GDP__, are often underperforming in energy efficiency, potentially due to limited infrastructure.
+
+- __High Energy Consumers:__
+   - __United States__ and __China__ rank highly in __Energy Per Capita__ due to vast consumption, but their __Energy Per GDP__ figures are moderate, reflecting their large-scale economies that require 
+     significant energy inputs to sustain growth.
+
+- __Outliers:__
+   - Countries like __Luxembourg__, with its relatively small size and high __Energy Per GDP__ (167.07), and __Qatar__, which has vast energy resources but high efficiency, exemplify nations leveraging energy 
+     resources effectively while maintaining high economic output.
 <br />
 <br />
 
-- <img src="images/Top_10_Countries_By_Low_Carbon_Consumption.png" width="300">
-
-- **Top 10 Countries With Most Low Carbon Consumption:**
-- US is at the top of the list of top 10 countries with lowest carbon consumption with 138,461 GWh, China is second with 59,700 GWh, Canada (54,662 GWh) and France (49,224 GWh), respectively. Brazil is next with 39,720 GWh, Japan with 36,484 GWh, Russia with 29,543 GWh and Germany with 23,443 GWh. Sweden with 17,557 GWh and Norway with 15,667 GWh completes the list.
-
-- US is at the top for low-carbon consumption because of its huge investment in low-carbon energy. China is at the second spot because of its strategic expansion in renewable energy to meet growing energy demands sustainably. Canada and Brazil’s dependence on hydropower and France’s focus on nuclear energy reduces their carbon footprint. Japan is investing in low-carbon technologies despite nuclear challenges, Russia and Germany are transitioning and have strategies to move to cleaner energy. Sweden and Norway are the benchmarks for their strong commitment to renewable energy, they are models for sustainable energy consumption.
-<br />
-<br />
-
-- <img src="images/Top_10_Countries_By_Hydro_Consumption.png" width="300">
-
-- **Top 10 Countries With Most Hydro Consumption:**
-- China is at the top with 44,857 GWh, Canada is second with 43,751 GWh, the US is third with 41,137 GWh. Brazil 32,863 GWh, Russia 15,926 GWh, Norway 15,569 GWh, Japan 12,096 GWh, India 10,886 GWh, Sweden 9,377 GWh and France 9,111 GWh.
-
-- China is leading in hydro consumption due to its massive renewable energy projects. Canada is high because of its abundant water resources. US is third because of its balanced approach to energy sources including hydropower. Russia, Norway, Japan and India’s high hydro consumption is because of their investments in hydro energy and also to diversify energy sources and reduce carbon emissions. Sweden and France are in the top ten because of their ongoing investments and commitment to renewable energy.
-<br />
-<br />
-
-- <img src="images/Top_10_Countries_By_Gas_Consumption.png" width="300">
-
-- **Top 10 Countries With Most Gas Consumption:**
-- In the “Top 10 Countries by Gas Consumption” list, the US is number one with 320,178 GWh. Russia is second with 140,260 GWh, Canada with 37,978 GWh and Germany with 34,996 GWh. The UK is next with 33,779 GWh and Iran follows with 32,428 GWh. Japan is next with 30,791 GWh and China is close behind with 29,008 GWh. Italy is 8th with 25,351 GWh and Ukraine 9th with 24,191 GWh.
-
-- The US is number one in gas consumption because it uses natural gas for electricity generation, heating and industrial processes. Russia is second because it uses its own gas reserves. Canada and Germany’s high consumption is because they need gas for energy security and industrial purposes. The UK and Iran’s consumption is because gas is their primary energy source. Japan and China’s consumption is because they are shifting to gas to reduce coal and carbon. Italy and Ukraine are in the top 10 because of their energy consumption trends and gas is part of their energy strategy.
-<br />
-<br />
-
-- <img src="images/Top_10_Countries_By_Energy_Per_GDP.png" width="300">
-
-- **Top 10 Countries With Most Energy Per GDP:**
-- The Top 10 Countries by Energy Per GDP chart is led by Trinidad and Tobago with 299.3 units per GDP. Bahrain and Singapore follow with 265.3 and 261.1 units per GDP respectively. These are the amount of energy consumed per economic output of the country. Mongolia and North Korea with 220.9 and 207.3 units per GDP also make it to this list as they consume a lot of energy relative to their GDP.
-
-- Trinidad and Tobago and Bahrain have high energy per GDP so their economies are energy dependent often due to energy intensive industries like oil and gas. This means they consume a lot of energy to produce economic output and may be inefficient or heavily dependent on energy resources.
-<br />
-<br />
-
-- <img src="images/Top_10_Countries_By_Energy_Per_Capita.png" width="300">
-
-- **Top 10 Countries With Most Energy Per Capita:**
-- Here’s the breakdown: Gibraltar top with 30,540,961 units, way ahead of second place Qatar with 10,480,614. Then the USVI and UAE with 8,604,615 and 6,891,825 respectively. Canada, Kuwait, Bahrain and Luxembourg also made the top 10 with 5,726,904, 5,641,934, 5,554,267 and 5,511,387 units respectively. Iceland and Norway were also in the top 10 with 5,283,391 units each.
-
-- The very high per capita energy consumption of Gibraltar could mean an intensive energy use relative to its population size, which again may be the result of a combination of intensive industrial activity and lower population. The ranking of Qatar and the United Arab Emirates comes as no surprise, given their excess production capacity for oil and huge gas reserves whose intensive energy uses are musts in these major producing and exporting countries. The presence of developed countries like Canada, Luxembourg, and Norway suggests that high living standards and industrials are massive contributors to their energy consumption.
-<br />
-<br />
 
 ## Tableau Dashboard Visualization:
-You can view and interact with this dashboard report [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WORLDENERGYCONSUMPTIONANALYSIS_17037361849100/Dashboard1)
+You can view and interact with this dashboard [here](https://public.tableau.com/app/profile/ugo.bruno/viz/WORLDENERGYCONSUMPTIONANALYSIS_17037361849100/Dashboard1)
 <br />
 <br />
 <br />
