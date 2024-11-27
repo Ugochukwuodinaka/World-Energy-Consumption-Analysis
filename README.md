@@ -22,28 +22,32 @@ The goal of the World Energy Consumption Analysis project are:
 - Identify the top 10 countries by total energy consumption.
 - Determine the top 10 countries by electricity generation.
 - Identify the top 10 countries by energy consumption per GDP.
-- Identify the top 10 countries by energy consumption per capita.
+- Determine the Energy Mix Distribution.
+- Compare Fossil Fuels vs Renewables over Time.
+- Examine the Year-over-Year chnages in energy consumption.
 - Evaluate trends in energy consumption by year.
+- Evaluate the Total Energy Consumption over Time by source.
+- Examine Low-Carbon Energy Generation over Time.
+- Compare Population vs Energy Consumption Per Capita over Time.
 - Assess trends in carbon intensity by year.
-- Identify the top 10 countries by Nuclear consumption.
-- Identify the top 10 countries by Low Carbon consumption.
-- Identify the top 10 countries by Hydro consumption.
-- Identify the top 10 countries by renewable energy consumption.
-- Identify the top 10 countries by gas consumption.
+- Assess Energy Per GDP and Energy Per Capita of Countries globally.
 
 
   ### Expectations:
 - Learn the global distribution of energy consumption.
 - Know the top countries in electricity generation.
 - Compare the energy efficiency by looking at the energy consumption against GDP.
+- Understand the Energy Mix Distribution across countries and continents.
+- Observe the distribution of Fossil Fuels against Renewables over the years.
+- Understand the Year-on-Year changes in energy consumtion.
 - Observe energy consumption patterns by capita.
 - Take a view of the historical trends of world energy consumption.
+- Observe the Total Energy Consumption over time by source.
+- Observe Low-Carbon Energy Generation over Time.
+- Understand Population growth against Energy Consumption Per Capita over Time.
 - Follow changes in carbon intensity of electricity generation
-- Know the top leaders in using renewable energy.
-- Look at gas consumption trends in the top countries.
-- Understand the position of nuclear energy in top countries.
-- Identify top countries on the basis of low-carbon energy adoption.
-- Assess the standing of hydro energy among top countries.
+- Identify Energy Per GDP and Energy Per Capita distribution of Countries globally.
+
 <br />
 
 ### About The Dataset
